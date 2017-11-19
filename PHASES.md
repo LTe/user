@@ -28,3 +28,7 @@ display name and surname with first capital letter. Remember about `#peter?` met
 ## Phase 7
 
 Create method `double_surname?` that checks for surname divided by space of `-`.
+
+## Phase 8
+
+Finish, grab some beer! :)
